@@ -1,0 +1,31 @@
+# Credit Risk Assessment ML Pipeline - Requirements
+# Core Data Science Libraries
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+xgboost>=1.7.0
+imbalanced-learn>=0.11.0
+category-encoders>=2.5.0
+
+# Jupyter/Colab Environment
+jupyter>=1.0.0
+ipython>=8.0.0
+
+# Data Visualization (for compatibility)
+plotly>=5.15.0
+
+# Optional: Google Colab specific (already installed in Colab)
+# google-colab
+# google-auth
+# google-auth-oauthlib
+
+# Streamlit Web Application
+streamlit>=1.28.0
+joblib>=1.3.0
+
+# Version info generated from working environment
+# Python>=3.8
